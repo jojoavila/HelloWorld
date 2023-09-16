@@ -1,23 +1,19 @@
 # HelloWorld Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program is in Python language. 
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The porpuse of it is to demonstrate how to generate an output message on the terminal.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 ## Development Environment
 
-{Describe the tools that you used to develop the software}
+I wrote the code using VS Code as my IDE, with the Python extension; and I also installed Python version 3.11.5
 
-{Describe the programming language that you used}
+Python is an object oriented programing language, that emphasizes the code readability through the use of identation.
 
 ### Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3school](https://www.w3schools.com/python/python_getstarted.asp)
+* [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
