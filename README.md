@@ -4,7 +4,7 @@ This program is in Python language.
 
 The porpuse of it is to demonstrate how to generate an output message on the terminal.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/QGbrc4WDJJg)
 
 ## Development Environment
 
