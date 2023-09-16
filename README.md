@@ -14,6 +14,5 @@ Python is an object oriented programing language, that emphasizes the code reada
 
 ### Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3school](https://www.w3schools.com/python/python_getstarted.asp)
 * [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
